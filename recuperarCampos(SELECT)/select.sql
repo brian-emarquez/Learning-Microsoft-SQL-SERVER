@@ -28,3 +28,12 @@ insert into libros (titulo,autor,editorial,precio,cantidad)
 -- recuperamos todas los datos de la tabla libros
 select * from libros;
 
+-- recuperamos solo el titulo, autor y editorial de la tabla libros
+select titulo,autor,editorial from libros; 
+
+-- recuperamos el titulo y el precio
+select titulo,precio from libros;
+
+-- recuperamos la editorial y la cantidad
+select editorial,cantidad from libros;  
+
