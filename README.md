@@ -59,7 +59,7 @@ create table usuario(
 
 /*Procediemtnos Almacenados*/
 
-```sql
+```tsql
 exec sp_columns usuario;
 exec sp_tables @table_owner='dbo'
 ```
@@ -90,14 +90,14 @@ exec sp_tables @table_owner='dbo'
 
 ### La sintaxis básica y general es la siguiente:
 
-```sql
+```tsql
  select * from NOMBRETABLA;
 El asterisco (*) indica que se seleccionan todos los campos de la tabla.
 ```
 
 Podemos especificar el nombre de los campos que queremos ver separándolos por comas:
 
-```sql
+```tsql
  select titulo,autor from libros; 
  ```
 
