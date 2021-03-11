@@ -12,7 +12,7 @@
   <a href="https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/Learning-Microsoft-SQL-SERVER.svg?style=flat" alt="Forks">
   </a>
-    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Learning-Microsoft-SQL-SERVER?color=red&label=Version&logo=python">
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Learning-Microsoft-SQL-SERVER?color=red&label=Version&logo=aql">
   </a>
   
   </a>
