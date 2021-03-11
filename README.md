@@ -33,5 +33,5 @@
   
 </p>
   
-![python](./images/microsoft_sqlserver.png)
+![python](./images/sql.jpg)
 
