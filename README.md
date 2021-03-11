@@ -47,7 +47,7 @@
 
 ## Crear Base de Datos
 
-```java
+```tsql
 
 if object_id('usuario') is not null
 	drop table usuario;
