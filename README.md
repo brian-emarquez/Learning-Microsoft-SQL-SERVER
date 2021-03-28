@@ -137,10 +137,12 @@ La lista de campos luego del "select" selecciona los datos correspondientes a lo
 | [Recuperar Campos select](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/005%20recuperarCampos(SELECT))          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 
-
 ---
 ## Material Creador
 [SQL SERVER ya](https://www.tutorialesprogramacionya.com/sqlserverya/)
+
+## Spotify Play Java
+🎵 Music SQL SERVER [List on Spotify 🎤](https://open.spotify.com/playlist/1McRBCzJzhsa7FQ12qfbsR?si=HgVrOallSAyGWk6G6la7dQ)
 
 ## Paypal Donation
 🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
