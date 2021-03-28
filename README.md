@@ -46,6 +46,8 @@
 |  004  |:heavy_check_mark: | [SELECT](#SELECT)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  005  |:heavy_check_mark: | [Recuperar Campos select](#Recuperar-Campos-select)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  006  |:heavy_check_mark: | [Recuperar algunos registros WHERE](#Recuperar-algunos-registros-WHERE)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  007  |:heavy_check_mark: | [Recuperar algunos registros WHERE EJERCICIO](#Recuperar-algunos-registros-WHERE-EJERCICIO)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  008  |:heavy_check_mark: | [Operadores relacionales](#Operadores-relacionales)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ## Crear Base de Datos
 
@@ -143,6 +145,77 @@ La lista de campos luego del "select" selecciona los datos correspondientes a lo
 | Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Recuperar algunos registros WHERE](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/006%20Recuperar%20algunos%20registros%20WHERE)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+
+## Recuperar algunos registros WHERE EJERCICIO
+
+| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Recuperar algunos registros WHERE](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/007%20Recuperar%20algunos%20registros%20EJERCICIO)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+
+## Operadores relacionales
+
+Los operadores son símbolos que permiten realizar operaciones matemáticas, concatenar cadenas, hacer comparaciones.
+
+SQL Server tiene 4 tipos de operadores:
+
+1. relacionales (o de comparación)
+2. aritméticos
+3. 4. de concatenación
+lógicos.
+Por ahora veremos solamente los primeros.
+
+Los operadores relacionales (o de comparación) nos permiten comparar dos expresiones, que pueden ser variables, valores de campos, etc.
+
+Hemos aprendido a especificar condiciones de igualdad para seleccionar registros de una tabla; por ejemplo:
+
+```sql
+ select * from libros
+  where autor='Borges';
+```
+Utilizamos el operador relacional de igualdad.
+
+Los operadores relacionales vinculan un campo con un valor para que SQL Server compare cada registro (el campo especificado) con el valor dado.
+
+Los operadores relacionales son los siguientes:
+
+=	igual
+<>	distinto
+>	mayor
+<	menor
+>=	mayor o igual
+<=	menor o igual
+
+Podemos seleccionar los registros cuyo autor sea diferente de "Borges", para ello usamos la condición:
+
+```sql
+ select * from libros
+  where autor<>'Borges';
+```
+
+Podemos comparar valores numéricos. Por ejemplo, queremos mostrar los títulos y precios de los libros cuyo precio sea mayor a 20 pesos:
+
+```sql
+ select titulo, precio
+  from libros
+  where precio>20;
+```
+
+Queremos seleccionar los libros cuyo precio sea menor o igual a 30:
+
+```sql
+ select *from libros
+  where precio<=30;
+```
+Los operadores relacionales comparan valores del mismo tipo. Se emplean para comprobar si un campo cumple con una condición.
+
+No son los únicos, existen otros que veremos mas adelante.
+
+| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Operadores relacionales](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/008%20Operadores%20relacionales)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
 
 ---
 ## Material Creador
