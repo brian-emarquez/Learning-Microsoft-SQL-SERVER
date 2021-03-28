@@ -180,12 +180,12 @@ Los operadores relacionales vinculan un campo con un valor para que SQL Server c
 
 Los operadores relacionales son los siguientes:
 
-=	igual
-<>	distinto
->	mayor
-<	menor
->=	mayor o igual
-<=	menor o igual
+=	igual <br>
+<>	distinto <br>
+>	mayor <br>
+<	menor <br>
+>=	mayor o igual <br>
+<=	menor o igual<br>
 
 Podemos seleccionar los registros cuyo autor sea diferente de "Borges", para ello usamos la condición:
 
