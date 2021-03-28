@@ -44,6 +44,7 @@
 |  002   |:heavy_check_mark: | [Insertar Datos](#Insertar-Datos)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  003  |:heavy_check_mark: | [Tipos Datos Básicos](#Tipos-Datos-Básicos)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  004  |:heavy_check_mark: | [SELECT](#SELECT)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  005  |:heavy_check_mark: | [Recuperar Campos select](#Recuperar-Campos-select)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ## Crear Base de Datos
 
@@ -110,11 +111,36 @@ Cuando tenemos un lote de comandos SQL y necesitamos particionarlo en distintos 
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [SELECT](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/recuperarCampos(SELECT))          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
+
+## Recuperar Campos select
+
+La sintaxis básica y general es la siguiente:
+
+```sql
+select * from NOMBRETABLA;
+```
+
+El asterisco (*) indica que se seleccionan todos los campos de la tabla.
+
+Podemos especificar el nombre de los campos que queremos ver separándolos por comas:
+
+```sql
+ select titulo,autor from libros; 
+```
+
+La lista de campos luego del "select" selecciona los datos correspondientes a los campos nombrados. En el ejemplo anterior seleccionamos los campos "titulo" y "autor" de la tabla "libros", mostrando todos los registros. Los datos aparecen ordenados según la lista de selección, en dicha lista los nombres de los campos se separan con comas.
+
+![python](./images/recuperarCAMPOS.png)
+
+| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Recuperar Campos select](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/recuperarCampos(SELECT))          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+
+
+---
 ## Material Creador
 [SQL SERVER ya](https://www.tutorialesprogramacionya.com/sqlserverya/)
-
-
-
 
 ## Paypal Donation
 🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
