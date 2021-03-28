@@ -112,3 +112,14 @@ Cuando tenemos un lote de comandos SQL y necesitamos particionarlo en distintos 
 
 ## Material Creador
 [SQL SERVER ya](https://www.tutorialesprogramacionya.com/sqlserverya/)
+
+
+
+
+## Paypal Donation
+🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
+
+## License 
+Todo acerca de la licencia [here](https://github.com/BrianMarquez3/Learning-Java/blob/main/LICENCE)
+
+<div align="center"><img src="./images/circle2.gif"></div>
