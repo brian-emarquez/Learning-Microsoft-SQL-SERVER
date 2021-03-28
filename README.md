@@ -68,7 +68,7 @@ exec sp_tables @table_owner='dbo'
 
 | Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Crear Base de Datos](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/blob/main/Crear%20Base%20de%20Datos)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Crear Base de Datos](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/001%20crear%20Base%20de%20Datos)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 
 
@@ -77,7 +77,7 @@ exec sp_tables @table_owner='dbo'
 
 | Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Insertar Datos](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/InsertarDatos)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Insertar Datos](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/002%20InsertarDatos)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 
 ## Tipos Datos Básicos
@@ -85,7 +85,7 @@ exec sp_tables @table_owner='dbo'
 
 | Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Tipos Datos Básicos](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/TiposDatosB%C3%A1sicos)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Tipos Datos Básicos](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/003%20TiposDatosB%C3%A1sicos)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ## SELECT
 
@@ -109,7 +109,7 @@ Cuando tenemos un lote de comandos SQL y necesitamos particionarlo en distintos 
 
 | Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [SELECT](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/recuperarCampos(SELECT))          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [SELECT](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/004%20Recuperar%20algunos%20campos%20(select)))          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 
 ## Recuperar Campos select
