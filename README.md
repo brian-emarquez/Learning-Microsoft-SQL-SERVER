@@ -45,6 +45,7 @@
 |  003  |:heavy_check_mark: | [Tipos Datos Básicos](#Tipos-Datos-Básicos)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  004  |:heavy_check_mark: | [SELECT](#SELECT)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  005  |:heavy_check_mark: | [Recuperar Campos select](#Recuperar-Campos-select)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  006  |:heavy_check_mark: | [Recuperar algunos registros WHERE](#Recuperar-algunos-registros-WHERE)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ## Crear Base de Datos
 
@@ -136,6 +137,12 @@ La lista de campos luego del "select" selecciona los datos correspondientes a lo
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Recuperar Campos select](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/005%20recuperarCampos(SELECT))          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
+
+## Recuperar algunos registros WHERE
+
+| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Recuperar algunos registros WHERE](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/006%20Recuperar%20algunos%20registros%20WHERE)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 ## Material Creador
