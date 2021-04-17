@@ -275,7 +275,7 @@ No son los únicos, existen otros que veremos mas adelante.
 ---
 ## Material Creador
 
-Este sitio para el aprendizaje de la programación de computadoras es un proyecto de Diego Moisset. [SQL SERVER YA](https://www.tutorialesprogramacionya.com/sqlserverya/)
+Este sitio para el aprendizaje de la programación de computadoras es un proyecto de Diego Moisset <br> [SQL SERVER YA](https://www.tutorialesprogramacionya.com/sqlserverya/)
 
 ## Spotify Play Java
 🎵 Music SQL SERVER [List on Spotify 🎤](https://open.spotify.com/playlist/1McRBCzJzhsa7FQ12qfbsR?si=HgVrOallSAyGWk6G6la7dQ)
