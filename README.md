@@ -33,7 +33,15 @@
   
 </p>
   
-![python](./images/sql.jpg)
+<!-- ![python](./images/sql.jpg) -->
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/sql.jpg" />
+      <h4 align="center">  Influido por: AWK, Smalltalk 80, Lisp, C, C++, Pascal, sed, Unix shell </h4>
+    </td>
+  </tr>
+</table>
 
 
 ## Tabla de Contenidos
@@ -230,4 +238,18 @@ No son los únicos, existen otros que veremos mas adelante.
 ## License 
 Todo acerca de la licencia [here](https://github.com/BrianMarquez3/Learning-Java/blob/main/LICENCE)
 
-<div align="center"><img src="./images/circle2.gif"></div>
+ <table align="center">
+    <tr>
+      <td colspan="3">A</td>
+        <td>B</td>
+      </tr>
+      <tr>
+        <td>C</td>
+      <td colspan="2"><img align="center" style="padding=0;" src="./images/circle2.gif" /></td>
+        <td>E</td>
+      </tr>
+      <tr>
+      <td colspan="3">F</td>
+        <td>G</td>
+    </tr>
+</table>
