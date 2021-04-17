@@ -1,4 +1,4 @@
-### Actualizar Datos
+### Actualizar Datos - UPDATE - SET
 
 Decimos que actualizamos un registro cuando modificamos alguno de sus valores.
 
@@ -26,6 +26,8 @@ Las condiciones no son obligatorias, pero si omitimos la cláusula "where", la a
 
 También podemos actualizar varios campos en una sola instrucción:
 
+```sql
  update usuarios set nombre='Marceloduarte', clave='Marce'
   where nombre='Marcelo';
-Para ello colocamos "update", el nombre de la tabla, "se
+```
+Para ello colocamos "update", el nombre de la tabla, "set" junto al nombre del campo y el nuevo valor y separado por coma, el otro nombre del campo con su nuevo valor.
