@@ -55,6 +55,13 @@
 |  006  |:heavy_check_mark: | [Recuperar algunos registros WHERE](#Recuperar-algunos-registros-WHERE)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  007  |:heavy_check_mark: | [Recuperar algunos registros WHERE EJERCICIO](#Recuperar-algunos-registros-WHERE-EJERCICIO)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  008  |:heavy_check_mark: | [Operadores relacionales](#Operadores-relacionales)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  009  |:heavy_check_mark: | [Operadores-Relacional](#Operadores-Relacional)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  010  |:heavy_check_mark: | [Operadores Relacional Ejercicio](#Operadores-Relacional-Ejercicio)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  011  |:heavy_check_mark: | [Borrar registros](#Borrar-egistros)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  012  |:heavy_check_mark: | [Actualizar Registros](#Actualizar-Registros)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  013  |:heavy_check_mark: | [Comentarios](#Comentarios)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  014  |:heavy_check_mark: | [Null](#Null)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  015  |:heavy_check_mark: | [Clave Primaria](#Clave-Primaria)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ## Crear Base de Datos
 
@@ -222,6 +229,47 @@ No son los únicos, existen otros que veremos mas adelante.
 | Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Operadores relacionales](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/008%20Operadores%20relacionales)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+
+## Operadores Relacional Ejercicio
+
+| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Operadores Relacional Ejercicio](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/009%20Operadores%20Relacional%20-%20Ejercicio)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+
+## Borrar registro
+
+| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Borrar registro](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/010%20Borrar%20registros%20(delete))          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+## Actualizar Registros
+
+| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Actualizar Registros](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/011%20Actualizar%20Registros%20(update))          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+
+## Comentarios
+
+| Comentarios                    | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Actualizar Registros](hhttps://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/013%20Comentarios)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+
+## Null
+
+
+| Comentarios                    | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Null](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/014%20Null)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+## Clave Primaria
+
+| Comentarios                    | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Clave Primaria](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/015%20Clave%20Primaria)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 
 ---
