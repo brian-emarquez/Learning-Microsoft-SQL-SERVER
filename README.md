@@ -315,7 +315,8 @@ Este sitio para el aprendizaje de la programación de computadoras es un proyect
   </tr>
 
   <tr>
-    <link>[SQL SERVER YA](https://www.tutorialesprogramacionya.com/sqlserverya) </link>
+    <a href="http://www.escepticos.org"> ARP-SAPC</a>
+    <td><b>[SQL SERVER YA](https://www.tutorialesprogramacionya.com/sqlserverya) </b><td>
   </tr>
 
 </table>
