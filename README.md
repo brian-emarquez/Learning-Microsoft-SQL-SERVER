@@ -300,7 +300,7 @@ No son los únicos, existen otros que veremos mas adelante.
 
 | Comentarios                    | Link |    Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Truncate table](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/016%20Campo%20con%20atributo%20identy)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Truncate table](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/018%20Truncate%20table)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 
 
