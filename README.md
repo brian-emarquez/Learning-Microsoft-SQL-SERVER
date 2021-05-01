@@ -307,15 +307,29 @@ No son los únicos, existen otros que veremos mas adelante.
 ---
 ## Material Creador
 
-Este sitio para el aprendizaje de la programación de computadoras es un proyecto de Diego Moisset <br> [SQL SERVER YA](https://www.tutorialesprogramacionya.com/sqlserverya)
+Este sitio para el aprendizaje de la programación de computadoras es un proyecto de Diego Moisset <br> 
+
+<table>
+  <tr>
+    <td> SQL SERVER YA </td>
+  </tr>
+
+  <tr>
+    <td> [SQL SERVER YA](https://www.tutorialesprogramacionya.com/sqlserverya) </td>
+  </tr>
+
+</table>
 
 ## Spotify SQL SERVER
+
 🎵 Music SQL SERVER [List on Spotify 🎤](https://open.spotify.com/playlist/1McRBCzJzhsa7FQ12qfbsR?si=HgVrOallSAyGWk6G6la7dQ)
 
 ## Paypal Donation
+
 🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
 
 ## License 
+
 Todo acerca de la licencia [here](https://github.com/BrianMarquez3/Learning-Java/blob/main/LICENCE)
 
  <table align="center">
