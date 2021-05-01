@@ -315,7 +315,7 @@ Este sitio para el aprendizaje de la programación de computadoras es un proyect
   </tr>
 
   <tr>
-    <td><link>[SQL SERVER YA](https://www.tutorialesprogramacionya.com/sqlserverya) </link><td>
+    <link>[SQL SERVER YA](https://www.tutorialesprogramacionya.com/sqlserverya) </link>
   </tr>
 
 </table>
