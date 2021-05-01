@@ -310,6 +310,7 @@ No son los únicos, existen otros que veremos mas adelante.
 Este sitio para el aprendizaje de la programación de computadoras es un proyecto de Diego Moisset <br> 
 
 <table>
+  <tr>
       <td colspan="2">Material Creador</td>
       <td> SQL SERVER YA </td>
       <td> <a href="https://www.tutorialesprogramacionya.com/sqlserverya/"> SQL Server Ya </a></td>
