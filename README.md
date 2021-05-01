@@ -300,6 +300,21 @@ No son los únicos, existen otros que veremos mas adelante.
 
 ##  Caracteristicas del atributo identy
 
+_Para saber cuál es el valor de inicio del campo "identity"_
+
+```sql
+select ident_seed('libros');
+```
+_Para permitir ingresar un valor en un campo de identidad activamos la opción_
+
+```sql
+set identity_insert libros on;
+```
+
+```sql
+set identity_insert libros off;
+```
+
 | Comentarios                    | Link |    Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Caracteristicas del atributo identy](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/016%20Campo%20con%20atributo%20identy)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
