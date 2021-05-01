@@ -315,7 +315,9 @@ Este sitio para el aprendizaje de la programación de computadoras es un proyect
   </tr>
 
   <tr>
-    <td> [SQL SERVER YA](https://www.tutorialesprogramacionya.com/sqlserverya) </td>
+    <td>
+     <img src="https://img.shields.io/github/forks/BrianMarquez3/"
+     [SQL SERVER YA](https://www.tutorialesprogramacionya.com/sqlserverya) </td>
   </tr>
 
 </table>
