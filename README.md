@@ -67,7 +67,7 @@
 
 | Numeration   | Check  |Topic          | Quantization     |    Edit Gitpot    |    Downloads    |  link   |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  A1   |:heavy_check_mark: | [Azure Data Studio](#Azure-Data-Studio)   | 
+|  A1   |:heavy_check_mark: | [Azure Data Studio](#Azure-Data-Studio)   |   :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 ## Crear Base de Datos
@@ -283,7 +283,7 @@ No son los únicos, existen otros que veremos mas adelante.
 
 ## Azure Data Studio
 
-| Comentarios                    | Link |    Home   |  Code       | Version      | Estado     |
+| Enumeration                   | Link |    Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |A1 | [Azure Data Studio](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/Azure%20Data%20Studio)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
