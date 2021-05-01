@@ -311,7 +311,7 @@ Este sitio para el aprendizaje de la programación de computadoras es un proyect
 
 <table>
  <tr>
-      <td colspan="2">Material Creador</td>
+      <td colspan="2" align="center">Material Creador</td>
   </tr>
   <tr>
       <td> SQL SERVER YA </td>
