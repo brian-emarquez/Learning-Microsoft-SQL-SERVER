@@ -309,7 +309,7 @@ No son los únicos, existen otros que veremos mas adelante.
 
 Este sitio para el aprendizaje de la programación de computadoras es un proyecto de Diego Moisset <br> 
 
-<table>
+<table align="center">
  <tr>
       <td colspan="2" align="center">Material Creador</td>
   </tr>
