@@ -315,9 +315,7 @@ Este sitio para el aprendizaje de la programación de computadoras es un proyect
   </tr>
 
   <tr>
-    <td>
-     <a href="https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/network">
-     [SQL SERVER YA](https://www.tutorialesprogramacionya.com/sqlserverya) </td>
+    <td>[SQL SERVER YA](https://www.tutorialesprogramacionya.com/sqlserverya) </td>
   </tr>
 
 </table>
