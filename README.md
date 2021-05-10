@@ -457,7 +457,8 @@ Para almacenar valores de tipo fecha se permiten como separadores "/", "-" y "."
 
 Para ingresar una fecha con formato "día-mes-año", tipeamos:
 
-``` set dateformat dmy;
+``` 
+set dateformat dmy;
 ```
 
 El formato por defecto es "mdy".
