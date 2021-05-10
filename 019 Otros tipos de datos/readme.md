@@ -129,3 +129,29 @@ Para almacenar valores de tipo fecha se permiten como separadores "/", "-" y "."
 -dym: 15/96/4,<br>
 -ydm: 96/15/4,<br>
 -ydm: 1996/15/4,<br>
+
+Para ingresar una fecha con formato "día-mes-año", tipeamos:
+
+``` set dateformat dmy;
+```
+
+El formato por defecto es "mdy".
+
+Podemos ingresar una fecha, sin hora, en tal caso la hora se guarda como "00:00:00". Por ejemplo, si ingresamos '25-12-01' (año de 2 dígitos), lo mostrará así: '2001-12-25 00:00:00.000'
+
+Podemos ingresar una hora sin fecha, en tal caso, coloca la fecha "1900-01-01". Por ejemplo, si ingresamos '10:15', mostrará '1900-01-01 10:15.000'.
+
+<table>
+    <tr>
+        <td>Tipo</td>
+        <td>Byte de almacenamiento</td>
+    </tr>
+    <tr>
+        <td>adatetime	</td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>snalldatetime</td>
+        <td>4</td>
+    </tr>
+</table>
