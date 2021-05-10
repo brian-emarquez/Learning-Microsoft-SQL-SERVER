@@ -137,7 +137,7 @@ Cuando tenemos un lote de comandos SQL y necesitamos particionarlo en distintos 
 
 |Number   | File       |    Link     |    Code     | version     | Estate     | Behind        |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|003      | [SELECT](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/004%20Recuperar%20algunos%20campos%20(select))           |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|004      | [SELECT](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/004%20Recuperar%20algunos%20campos%20(select))           |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ## Recuperar Campos select
 
@@ -161,7 +161,7 @@ La lista de campos luego del "select" selecciona los datos correspondientes a lo
 
 |Number   | File       |    Link     |    Code     | version     | Estate     | Behind        |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|004      |  [Recuperar Campos select](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/005%20recuperarCampos(SELECT))            |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|005      |  [Recuperar Campos select](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/005%20recuperarCampos(SELECT))            |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ## Recuperar algunos registros WHERE
 
@@ -169,14 +169,14 @@ La lista de campos luego del "select" selecciona los datos correspondientes a lo
 
 |Number   | File       |    Link     |    Code     | version     | Estate     | Behind        |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|005      |  [Recuperar algunos registros WHERE](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/006%20Recuperar%20algunos%20registros%20WHERE)             |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|006      |  [Recuperar algunos registros WHERE](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/006%20Recuperar%20algunos%20registros%20WHERE)             |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
 ## Recuperar algunos registros WHERE EJERCICIO
 
 |Number   | File       |    Link     |    Code     | version     | Estate     | Behind        |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|006      |  [Recuperar algunos registros WHERE](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/007%20Recuperar%20algunos%20registros%20EJERCICIO)             |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|007      |  [Recuperar algunos registros WHERE](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/007%20Recuperar%20algunos%20registros%20EJERCICIO)             |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
 ## Operadores relacionales
@@ -239,47 +239,44 @@ No son los únicos, existen otros que veremos mas adelante.
 
 |Number   | File       |    Link     |    Code     | version     | Estate     | Behind        |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|007      |   [Operadores relacionales](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/008%20Operadores%20relacionales)             |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|008      |   [Operadores relacionales](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/008%20Operadores%20relacionales)             |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ## Operadores Relacional Ejercicio
 
-|Number   | File       |    Link     |    Code     | version     | Estate     | Behind        |
+|Number   | File       |    Link     |    Code        | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|008      |    [Operadores Relacional Ejercicio](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/009%20Operadores%20Relacional%20-%20Ejercicio)             |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|009      |    [Operadores Relacional Ejercicio](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/009%20Operadores%20Relacional%20-%20Ejercicio)             |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ## Borrar registro
 
-|Number   | File       |    Link     |    Code     | version     | Estate     | Behind        |
+|Number   | File       |    Link     |    Code        | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|009      |    [---------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Borrar registro](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/010%20Borrar%20registros%20(delete))                |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|010      |   [Borrar registro - Delete](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/010%20Borrar%20registros%20(delete))             |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ## Actualizar Registros
 
-|Number   | File       |    Link     |    Code     | version     | Estate     | Behind        |
+|Number   | File       |    Link     |    Code        | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|009      |    [---------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|  [Actualizar Registros](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/011%20Actualizar%20Registros%20(update))                |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|011      |    [Actualizar Registros - Update](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/011%20Actualizar%20Registros%20(update))                |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|012      |    [Actualizar Registros - Update Ejercicio](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/012%20Actualizar%20Registros%20(update)%20Ejercicio)                |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ## Comentarios
 
-| Comentarios                    | Link |    Home   |  Code       | Version      | Estado     |
-|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Actualizar Registros](hhttps://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/013%20Comentarios)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
-
+|Number   | File       |    Link     |    Code        | version     | Estate     | Behind       |
+|:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|013      |    [Actualizar Registros - ](hhttps://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/013%20Comentarios)                 |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ## Null
 
-
-| Comentarios                    | Link |    Home   |  Code       | Version      | Estado     |
-|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Null](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/014%20Null)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+|Number   | File       |    Link     |    Code        | version     | Estate     | Behind       |
+|:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|014      |   [Null](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/014%20Null)                 |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ## Clave Primaria
 
-| Comentarios                    | Link |    Home   |  Code       | Version      | Estado     |
-|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Clave Primaria](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/015%20Clave%20Primaria)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+|Number   | File       |    Link     |    Code        | version     | Estate     | Behind       |
+|:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|015      |   [Clave Primaria](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/015%20Clave%20Primaria)               |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ## Campo con atributo identy
 
@@ -291,11 +288,9 @@ No son los únicos, existen otros que veremos mas adelante.
   </tr>
 </table>
 
-
-| Comentarios                    | Link |    Home   |  Code       | Version      | Estado     |
-|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Campo con atributo identy](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/016%20Campo%20con%20atributo%20identy)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
-
+|Number   | File       |    Link     |    Code        | version     | Estate     | Behind       |
+|:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|016      |  [Campo con atributo identy](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/016%20Campo%20con%20atributo%20identy)              |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ##  Caracteristicas del atributo identy
 
@@ -314,17 +309,16 @@ set identity_insert libros on;
 set identity_insert libros off;
 ```
 
-| Comentarios                    | Link |    Home   |  Code       | Version      | Estado     |
-|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Caracteristicas del atributo identy](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/016%20Campo%20con%20atributo%20identy)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
-
+|Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
+|:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|017      |   [Caracteristicas del atributo identy](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/016%20Campo%20con%20atributo%20identy)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ##  Truncate table
 
-| Comentarios                    | Link |    Home   |  Code       | Version      | Estado     |
-|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Truncate table](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/018%20Truncate%20table)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
+|Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
+|:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|018      |   [Truncate table](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/018%20Truncate%20table)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ---
 
@@ -338,10 +332,9 @@ set identity_insert libros off;
 
 ## Azure Data Studio
 
-| Enumeration                   | Link |    Home   |  Code       | Version      | Estado     |
-|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|A1 | [Azure Data Studio](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/Azure%20Data%20Studio)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
-
+|Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
+|:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|A        |    [Azure Data Studio](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/Azure%20Data%20Studio)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ---
 ## Material Creador
