@@ -47,7 +47,7 @@
 
 | Numeration   | Check  |Topic          | Quantization     |    Edit Gitpot    |    Downloads    |  link   |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  001   |:heavy_check_mark: | [Crear Base de Datos](#Crear-Base-de-Datos)   |   <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  001   |:heavy_check_mark: | [Crear Base de Datos](#Crear-Base-de-Datos)   |   <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - |  <img src="https://media.giphy.com/media/W5qXxwQHyKklrUlusr/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  002   |:heavy_check_mark: | [Insertar Datos](#Insertar-Datos)  |   <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">       | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  003  |:heavy_check_mark: | [Tipos Datos Básicos](#Tipos-Datos-Básicos)  |   <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">    | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  004  |:heavy_check_mark: | [SELECT](#SELECT)  |   <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">      | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
