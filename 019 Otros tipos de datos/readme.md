@@ -76,7 +76,7 @@ Para almacenar valores MONETARIOS empleamos:
     <tr>
         <td>bigint</td>
         <td>8</td>
-    </tr></tr>
+    </tr><br></tr>
     <tr>
         <td>decimal</td>
         <td>2 a 17</td>
