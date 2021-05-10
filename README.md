@@ -4,7 +4,7 @@
 <p align="center">
   
    </a>
-    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/Learning-Microsoft-SQL-SERVER?color=red">
+    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/Learning-Microsoft-SQL-SERVER?color=darkred">
   </a>
   <a href="https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/stargazers">
     <img src="https://img.shields.io/github/stars/BrianMarquez3/Learning-Microsoft-SQL-SERVER.svg?style=flat" alt="Stars">
@@ -12,7 +12,7 @@
   <a href="https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/Learning-Microsoft-SQL-SERVER.svg?style=flat" alt="Forks">
   </a>
-    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Learning-Microsoft-SQL-SERVER?color=red&label=Version&logo=sql">
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Learning-Microsoft-SQL-SERVER?color=red&label=Version&logo=TSQL">
   </a>
   
   </a>
@@ -20,7 +20,7 @@
   </a>
   
   </a>
-    <img src="https://img.shields.io/github/downloads/BrianMarquez3/Learning-Microsoft-SQL-SERVER/total?color=green">
+    <img src="https://img.shields.io/github/downloads/BrianMarquez3/Learning-Microsoft-SQL-SERVER/total?color=blue">
   </a>
   
    </a>
