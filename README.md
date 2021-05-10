@@ -324,7 +324,7 @@ set identity_insert libros off;
 
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|019      |   [Otros tipos de datos](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/018%20Truncate%20table)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|019      |   [Otros tipos de datos](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/019%20Otros%20tipos%20de%20datos)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
 
