@@ -66,6 +66,8 @@
 |  017  |:heavy_check_mark: | [Caracteristicas del atributo identy](#Caracteristicas-del-atributo-identy)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">    | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  018  |:heavy_check_mark: | [Truncate table](#Truncate-table)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  019  |:heavy_check_mark: | [Otros tipos de datos](#Otros-tipos-de-datos)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  020  |:heavy_check_mark: | [Ingresar algunos campos](#Ingresar-algunos-campos)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+
 
 ## Azure
 
@@ -485,6 +487,11 @@ Podemos ingresar una hora sin fecha, en tal caso, coloca la fecha "1900-01-01". 
 |019      |   [Otros tipos de datos](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/019%20Otros%20tipos%20de%20datos)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
+## Ingresar algunos campos
+
+|Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
+|:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|020      |   [Ingresar algunos campos](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/019%20Otros%20tipos%20de%20datos)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
 
