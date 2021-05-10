@@ -56,18 +56,49 @@ Para almacenar valores MONETARIOS empleamos:
 
 
 
+<table>
+    <tr>
+        <td>Tipo</td>
+        <td>Byte de almacenamiento</td>
+    </tr>
+    <tr>
+        <td>int	</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>smallint</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>tinyint</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>bigint</td>
+        <td>8</td>
+    </tr></tr>
+    <tr>
+        <td>decimal</td>
+        <td>2 a 17</td>
+    </tr>
+    </tr></tr>
+    <tr>
+        <td>float</td>
+        <td>4 u 8</td>
+    </tr>
+    <tr>
+        <td>real</td>
+        <td>4 u 8</td>
+    </tr>
+    </tr></tr>
+    <tr>
+        <td>money</td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>smallmoney</td>
+        <td>4</td>
+    </tr>
 
-Tipo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bytes de almacenamiento<br>
-_______________________________________
-int	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	4<br>
-smallint &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	2<br>
-tinyint	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	1<br>
-bigint	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	8<br>
-<br>
-decimal	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	2 a 17<br>
-<br>
-float	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	4 u 8<br>
-real	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	4 u 8<br>
-<br>
-money	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	8<br>
-smallmoney &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	4<br>
+</table>
+
