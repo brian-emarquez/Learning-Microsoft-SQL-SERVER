@@ -94,9 +94,9 @@ exec sp_tables @table_owner='dbo'
 ```
 
 
-| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
-|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Crear Base de Datos](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/001%20crear%20Base%20de%20Datos)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+|Number   | Carpeta       |    Link     |    Code     | Version     | Estado     | Atras        |
+|:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|001      | [Crear Base de Datos](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/001%20crear%20Base%20de%20Datos)          |      ✔️     |  yes | yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
 
