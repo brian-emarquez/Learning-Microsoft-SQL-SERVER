@@ -57,17 +57,17 @@ Para almacenar valores MONETARIOS empleamos:
 
 
 
-Tipo		Bytes de almacenamiento<br>
+Tipo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bytes de almacenamiento<br>
 _______________________________________
-int	&nbsp;&nbsp;	4<br>
-smallint	2<br>
-tinyint		1<br>
-bigint		8<br>
+int	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	4<br>
+smallint &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	2<br>
+tinyint	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	1<br>
+bigint	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	8<br>
 <br>
-decimal		2 a 17<br>
+decimal	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	2 a 17<br>
 <br>
-float		4 u 8<br>
-real		4 u 8<br>
+float	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	4 u 8<br>
+real	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	4 u 8<br>
 <br>
-money		8<br>
-smallmoney	4<br>
+money	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	8<br>
+smallmoney &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	4<br>
