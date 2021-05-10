@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
   </a><br>
  
-  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/Learning-Microsoft-SQL-SERVER?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/Learning-Microsoft-SQL-SERVER?color=darkred&style=for-the-badge">
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/Learning-Microsoft-SQL-SERVER?style=for-the-badge">
   
 </p>
