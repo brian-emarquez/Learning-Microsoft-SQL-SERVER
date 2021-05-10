@@ -20,6 +20,7 @@ Para guardar valores decimales aproximados: float y real. Para almacenar valores
 - `FECHAS y HORAS`: para guardar fechas y horas SQL Server dispone de 2 tipos: datetime y smalldatetime
 </p>
 
+---
 
 ### Tipo de dato (numérico)
 
@@ -109,3 +110,22 @@ Para almacenar valores MONETARIOS empleamos:
 
 </table>
 
+---
+
+### Tipo de dato (fecha y hora)
+
+Para almacenar valores de tipo FECHA Y HORA SQL Server dispone de dos tipos:
+
+1) datetime: puede almacenar valores desde 01 de enero de 1753 hasta 31 de diciembre de 9999.
+
+2) smalldatetime: el rango va de 01 de enero de 1900 hasta 06 de junio de 2079.
+
+Las fechas se ingresan entre comillas simples.
+Para almacenar valores de tipo fecha se permiten como separadores "/", "-" y ".".
+
+-mdy: 4/15/96 (mes y día con 1 ó 2 dígitos y año con 2 ó 4 dígitos),
+-myd: 4/96/15,
+-dmy: 15/4/1996
+-dym: 15/96/4,
+-ydm: 96/15/4,
+-ydm: 1996/15/4,
