@@ -65,7 +65,7 @@
 |  016  |:heavy_check_mark: | [Campo con atributo identy](#Campo-con-atributo-identy)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  017  |:heavy_check_mark: | [Caracteristicas del atributo identy](#Caracteristicas-del-atributo-identy)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">    | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  018  |:heavy_check_mark: | [Truncate table](#Truncate-table)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-
+|  019  |:heavy_check_mark: | [Otros tipos de datos](#Otros-tipos-de-datos)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ## Azure
 
@@ -319,6 +319,16 @@ set identity_insert libros off;
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |018      |   [Truncate table](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/018%20Truncate%20table)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+
+## Otros tipos de datos
+
+|Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
+|:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|019      |   [Otros tipos de datos](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/018%20Truncate%20table)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+
+
+
+
 
 ---
 
