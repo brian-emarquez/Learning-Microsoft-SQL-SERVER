@@ -77,14 +77,12 @@ Para almacenar valores MONETARIOS empleamos:
         <td>bigint</td>
         <td>8</td>
     </tr>
-        <tr>
         <td></td>
     </tr>
     <tr>
         <td>decimal</td>
         <td>2 a 17</td>
     </tr>
-        <tr>
         <td></td>
     </tr>
     <tr>
@@ -95,7 +93,6 @@ Para almacenar valores MONETARIOS empleamos:
         <td>real</td>
         <td>4 u 8</td>
     </tr>
-        <tr>
         <td></td>
     </tr>
     <tr>
