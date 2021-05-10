@@ -81,7 +81,9 @@ Para almacenar valores MONETARIOS empleamos:
         <td>decimal</td>
         <td>2 a 17</td>
     </tr>
-    <br>
+    <tr>
+        <td></td>
+    </tr>
     <tr>
         <td>float</td>
         <td>4 u 8</td>
