@@ -495,15 +495,6 @@ Podemos ingresar una hora sin fecha, en tal caso, coloca la fecha "1900-01-01". 
 |020      |   [Ingresar algunos campos](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/020%20Ingredar%20Alguno%20scampos(insertInto))     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
-
-
-
-
-
-
-
-
-
 ---
 
 <table align="center">
