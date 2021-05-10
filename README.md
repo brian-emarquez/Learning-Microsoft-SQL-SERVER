@@ -71,7 +71,7 @@
 
 | Numeration   | Check  |Topic          | Quantization     |    Edit Gitpot    |    Downloads    |  link   |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  A1   |<img src="https://media.giphy.com/media/9P3eo7B7wWBbqgs6pw/giphy.gif" width="25px"> | [Azure Data Studio](#Azure-Data-Studio)   |   :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  A1   |<img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px"> | [Azure Data Studio](#Azure-Data-Studio)   |   :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 ## Crear Base de Datos
