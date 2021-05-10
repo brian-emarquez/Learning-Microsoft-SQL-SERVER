@@ -47,31 +47,31 @@
 
 | Numeration   | Check  |Topic          | Quantization     |    Edit Gitpot    |    Downloads    |  link   |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  001   |:heavy_check_mark: | [Crear Base de Datos](#Crear-Base-de-Datos)   |   <img src="https://media.giphy.com/media/gkFgT9SNShyaGFGgpA/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  001   |:heavy_check_mark: | [Crear Base de Datos](#Crear-Base-de-Datos)   |   <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  002   |:heavy_check_mark: | [Insertar Datos](#Insertar-Datos)  |   <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px">      | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  003  |:heavy_check_mark: | [Tipos Datos Básicos](#Tipos-Datos-Básicos)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  003  |:heavy_check_mark: | [Tipos Datos Básicos](#Tipos-Datos-Básicos)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">   | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  004  |:heavy_check_mark: | [SELECT](#SELECT)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  005  |:heavy_check_mark: | [Recuperar Campos select](#Recuperar-Campos-select)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  006  |:heavy_check_mark: | [Recuperar algunos registros WHERE](#Recuperar-algunos-registros-WHERE)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  007  |:heavy_check_mark: | [Recuperar algunos registros WHERE EJERCICIO](#Recuperar-algunos-registros-WHERE-EJERCICIO)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  008  |:heavy_check_mark: | [Operadores relacionales](#Operadores-relacionales)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  009  |:heavy_check_mark: | [Operadores-Relacional](#Operadores-Relacional)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  010  |:heavy_check_mark: | [Operadores Relacional Ejercicio](#Operadores-Relacional-Ejercicio)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  011  |:heavy_check_mark: | [Borrar registros](#Borrar-egistros)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  012  |:heavy_check_mark: | [Actualizar Registros](#Actualizar-Registros)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  013  |:heavy_check_mark: | [Comentarios](#Comentarios)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  014  |:heavy_check_mark: | [Null](#Null)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  015  |:heavy_check_mark: | [Clave Primaria](#Clave-Primaria)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  016  |:heavy_check_mark: | [Campo con atributo identy](#Campo-con-atributo-identy)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  017  |:heavy_check_mark: | [Caracteristicas del atributo identy](#Caracteristicas-del-atributo-identy)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  018  |:heavy_check_mark: | [Truncate table](#Truncate-table)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  005  |:heavy_check_mark: | [Recuperar Campos select](#Recuperar-Campos-select)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">    | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  006  |:heavy_check_mark: | [Recuperar algunos registros WHERE](#Recuperar-algunos-registros-WHERE)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  007  |:heavy_check_mark: | [Recuperar algunos registros WHERE EJERCICIO](#Recuperar-algunos-registros-WHERE-EJERCICIO)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  008  |:heavy_check_mark: | [Operadores relacionales](#Operadores-relacionales)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  009  |:heavy_check_mark: | [Operadores-Relacional](#Operadores-Relacional)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  010  |:heavy_check_mark: | [Operadores Relacional Ejercicio](#Operadores-Relacional-Ejercicio)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  011  |:heavy_check_mark: | [Borrar registros](#Borrar-egistros)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  012  |:heavy_check_mark: | [Actualizar Registros](#Actualizar-Registros)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  013  |:heavy_check_mark: | [Comentarios](#Comentarios)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">    | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  014  |:heavy_check_mark: | [Null](#Null)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  015  |:heavy_check_mark: | [Clave Primaria](#Clave-Primaria)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  016  |:heavy_check_mark: | [Campo con atributo identy](#Campo-con-atributo-identy)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  017  |:heavy_check_mark: | [Caracteristicas del atributo identy](#Caracteristicas-del-atributo-identy)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">    | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  018  |:heavy_check_mark: | [Truncate table](#Truncate-table)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 ## Azure
 
 | Numeration   | Check  |Topic          | Quantization     |    Edit Gitpot    |    Downloads    |  link   |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  A1   |<img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px"> | [Azure Data Studio](#Azure-Data-Studio)   |   :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  A1   | <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px">| [Azure Data Studio](#Azure-Data-Studio)   |   :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 ## Crear Base de Datos
