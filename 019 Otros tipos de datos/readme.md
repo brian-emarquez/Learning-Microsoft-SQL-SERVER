@@ -123,9 +123,9 @@ Para almacenar valores de tipo FECHA Y HORA SQL Server dispone de dos tipos:
 Las fechas se ingresan entre comillas simples.
 Para almacenar valores de tipo fecha se permiten como separadores "/", "-" y ".".
 
--mdy: 4/15/96 (mes y día con 1 ó 2 dígitos y año con 2 ó 4 dígitos),
--myd: 4/96/15,
--dmy: 15/4/1996
--dym: 15/96/4,
--ydm: 96/15/4,
--ydm: 1996/15/4,
+-mdy: 4/15/96 (mes y día con 1 ó 2 dígitos y año con 2 ó 4 dígitos),<br>
+-myd: 4/96/15,<br>
+-dmy: 15/4/1996<br>
+-dym: 15/96/4,<br>
+-ydm: 96/15/4,<br>
+-ydm: 1996/15/4,<br>
