@@ -21,6 +21,7 @@ insert into libros
   values('Java en 10 minutos','Mario Molina','Siglo XXI',50.40,100);
 insert into libros (titulo,autor,editorial,precio,cantidad)
   values('Alicia en el pais de las maravillas','Lewis Carroll','Emece',15,50);
+select * from libros
 
 -- Queremos saber el monto total en dinero de cada libro: 
 select titulo, precio,cantidad,
@@ -33,8 +34,7 @@ select titulo,precio,
   from libros;
 
 -- Actualizar los precios con un 10% de descuento:
-update libros set precio=precio-(precio*0.1);
-
+update libros set precio=(precio*0.1);
 select * from libros;
 
 -- Queremos una columna con el título, el autor y la editorial de cada libro:
