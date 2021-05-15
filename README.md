@@ -42,7 +42,6 @@
   </tr>
 </table>
 
-
 ## Tabla de Contenidos
 
 | Numeration   | Check  |Topic          | Quantization     |    Edit Gitpot    |    Downloads    |  link   |
