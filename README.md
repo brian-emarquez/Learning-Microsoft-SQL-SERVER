@@ -68,7 +68,8 @@
 |  019  |:heavy_check_mark: | [Otros tipos de datos](#Otros-tipos-de-datos)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  020  |:heavy_check_mark: | [Ingresar algunos campos](#Ingresar-algunos-campos)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  021  |:heavy_check_mark: | [Valores por Defecto](#Valores-por-Defecto)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-
+|  022  |:heavy_check_mark: | [Columnas calculadas](#Columnas-calculadas)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  023 |:heavy_check_mark: | [Alias](#Alias)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ## Azure
 
@@ -500,7 +501,20 @@ Podemos ingresar una hora sin fecha, en tal caso, coloca la fecha "1900-01-01". 
 
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|020      |   [Valores por Defecto](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/021%20Valores%20por%20Defecto)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|021      |   [Valores por Defecto](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/021%20Valores%20por%20Defecto)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+
+
+## Columnas calculadas
+
+|Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
+|:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|022      |   [Columnas calculadas](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/021%20Valores%20por%20Defecto)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+
+## Alias
+
+|Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
+|:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|023      |   [Alias](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/021%20Valores%20por%20Defecto)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ---
 
