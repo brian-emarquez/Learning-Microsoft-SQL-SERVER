@@ -508,13 +508,13 @@ Podemos ingresar una hora sin fecha, en tal caso, coloca la fecha "1900-01-01". 
 
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|022      |   [Columnas calculadas](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/021%20Valores%20por%20Defecto)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|022      |   [Columnas calculadas](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/022%20Columnas%20Calculadas)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ## Alias
 
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|023      |   [Alias](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/021%20Valores%20por%20Defecto)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|023      |   [Alias](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/023%20Alias)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ---
 
