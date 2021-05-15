@@ -1,5 +1,5 @@
 
-<h2 align="center">Learning-Micosoft-SQL-SERVER </h2>
+<h2 align="center">Learning Micosoft SQL SERVER | Oracle </h2>
 
 <p align="center">
   
