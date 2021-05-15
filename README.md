@@ -67,6 +67,7 @@
 |  018  |:heavy_check_mark: | [Truncate table](#Truncate-table)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  019  |:heavy_check_mark: | [Otros tipos de datos](#Otros-tipos-de-datos)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  020  |:heavy_check_mark: | [Ingresar algunos campos](#Ingresar-algunos-campos)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  021  |:heavy_check_mark: | [Valores por Defecto](#Valores-por-Defecto)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 ## Azure
@@ -494,6 +495,12 @@ Podemos ingresar una hora sin fecha, en tal caso, coloca la fecha "1900-01-01". 
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |020      |   [Ingresar algunos campos](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/020%20Ingredar%20Alguno%20scampos(insertInto))     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
+
+## Valores por Defecto
+
+|Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
+|:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|020      |   [Valores por Defecto](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/020%20Ingredar%20Alguno%20scampos(insertInto))     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ---
 
