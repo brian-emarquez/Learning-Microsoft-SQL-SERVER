@@ -1,5 +1,10 @@
 ### Alias
 
+```
+Palabra: as
+```
+
+
 ```sql
  select nombre as NombreYApellido,
   domicilio,telefono
