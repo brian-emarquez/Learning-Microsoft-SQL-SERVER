@@ -536,7 +536,7 @@ Podemos ingresar una hora sin fecha, en tal caso, coloca la fecha "1900-01-01". 
 
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|026      |   [ORDERR BY](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/025%20Funciones%20matemaricas)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|026      |   [ORDERR BY](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/026%20ORDER%20BY)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
 
