@@ -1,0 +1,1 @@
+Se utiliza "in" para averiguar si el valor de un campo está incluido en una lista de valores especificada.
