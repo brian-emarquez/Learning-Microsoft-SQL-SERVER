@@ -533,6 +533,40 @@ Podemos ingresar una hora sin fecha, en tal caso, coloca la fecha "1900-01-01". 
 
 ## ORDERR BY
 
+```sql
+-- Recuperamos los registros ordenados por el título:
+select * from libros
+ order by titulo;
+
+-- Ordenamos los registros por el campo "precio", referenciando el campo
+-- por su posición en la lista de selección:
+select titulo,autor,precio
+  from libros order by 2; -- numero de filas
+
+-- Los ordenamos por "editorial", de mayor a menor empleando "desc":
+select * from libros
+  order by editorial desc;
+
+-- Ordenamos por dos campos:
+ select * from libros
+  order by titulo,editorial;
+
+-- Ordenamos en distintos sentidos:
+ select * from libros
+  order by titulo asc, editorial desc;
+
+-- Ordenamos por un campo que no se lista en la selección:
+ select titulo, autor, precio
+  from libros
+  order by precio;
+
+-- Ordenamos por un valor calculado:
+ select titulo, autor, editorial,
+        precio+(precio*0.1) as 'precio con descuento'
+   from libros
+   order by 4;	
+```
+
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |026      |   [ORDERR BY](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/026%20ORDER%20BY)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
