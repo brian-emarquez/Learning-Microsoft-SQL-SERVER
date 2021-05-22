@@ -521,14 +521,14 @@ Podemos ingresar una hora sin fecha, en tal caso, coloca la fecha "1900-01-01". 
 
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|024      |   [Funciones](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/023%20Alias)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|024      |   [Funciones](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/024%20Funciones)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
 ## Funciones Matemaricas
 
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|024      |   [Funciones](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/023%20Alias)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|025      |   [Funciones](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/025%20Funciones%20matemaricas)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
 
