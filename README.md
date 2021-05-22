@@ -592,52 +592,52 @@ select * from libros
 
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|028      |   [Operadores relacionales NULL](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/027%20Operadores%20Logicos)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|028      |   [Operadores relacionales NULL](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/028%20Operadores%20relacionales%20NULL)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ## Operadores relacionales BETWEEN
 
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|029      |   [Operadores relacionales BETWEEN](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/027%20Operadores%20Logicos)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|029      |   [Operadores relacionales BETWEEN](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/029%20Operadores%20Relacion%20BETWEEN)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ## Operadores relacionales IN
 
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|030      |   [Operadores relacionales IN](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/027%20Operadores%20Logicos)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|030      |   [Operadores relacionales IN](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/030%20Operadores%20Relaciones%20IN)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
 ## Busqueda de patrones LIKE
 
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|031      |   [Busqueda de patrones LIKE](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/027%20Operadores%20Logicos)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|031      |   [Busqueda de patrones LIKE](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/031%20Busqueda%20de%20patrones%20LIKE)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ## Busqueda de patrones COUNT
 
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|032      |   [Busqueda de patrones COUNT](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/027%20Operadores%20Logicos)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|032      |   [Busqueda de patrones COUNT](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/032%20Contar%20registros%20COUNT)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
 ## Busqueda de patrones COUNT BIG
 
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|033      |   [Busqueda de patrones COUNT BIG](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/027%20Operadores%20Logicos)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|033      |   [Busqueda de patrones COUNT BIG](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/033%20Contar%20Regstros%20COUNT%20BIG)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ## Busqueda de patrones COUNT BIG
 
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|034      |   [Funciones agrupamiento](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/027%20Operadores%20Logicos)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|034      |   [Funciones agrupamiento](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/034%20Funciones%20agrupamiento)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
 ## Agrupar registros
 
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|035      |   [Agrupar registros](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/027%20Operadores%20Logicos)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|035      |   [Agrupar registros](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/035%20Agrupar%20Registros)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
 
