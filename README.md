@@ -51,12 +51,9 @@
 |  003  |:heavy_check_mark: | [Tipos Datos Básicos](#Tipos-Datos-Básicos)  |   <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">    | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  004  |:heavy_check_mark: | [SELECT](#SELECT)  |   <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">      | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  005  |:heavy_check_mark: | [Recuperar Campos select](#Recuperar-Campos-select)  |   <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  006  |:heavy_check_mark: | [Recuperar algunos registros WHERE](#Recuperar-algunos-registros-WHERE)  |   <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">      | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  007  |:heavy_check_mark: | [Recuperar algunos registros WHERE EJERCICIO](#Recuperar-algunos-registros-WHERE-EJERCICIO)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  008  |:heavy_check_mark: | [Operadores relacionales](#Operadores-relacionales)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  009  |:heavy_check_mark: | [Operadores-Relacional](#Operadores-Relacional)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  010  |:heavy_check_mark: | [Operadores Relacional Ejercicio](#Operadores-Relacional-Ejercicio)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  011  |:heavy_check_mark: | [Borrar registros](#Borrar-egistros)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|006-007|:heavy_check_mark: | [Recuperar algunos registros WHERE](#Recuperar-algunos-registros-WHERE)  |   <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">      | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|008-009|:heavy_check_mark: | [Operadores relacionales](#Operadores-relacionales)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  010  |:heavy_check_mark: | [Borrar registros](#Borrar-egistros)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  012  |:heavy_check_mark: | [Actualizar Registros](#Actualizar-Registros)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  013  |:heavy_check_mark: | [Comentarios](#Comentarios)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">    | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  014  |:heavy_check_mark: | [Null](#Null)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
@@ -68,8 +65,10 @@
 |  020  |:heavy_check_mark: | [Ingresar algunos campos](#Ingresar-algunos-campos)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  021  |:heavy_check_mark: | [Valores por Defecto](#Valores-por-Defecto)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  022  |:heavy_check_mark: | [Columnas calculadas](#Columnas-calculadas)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  023 |:heavy_check_mark: | [Funciones](#Funciones)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 023 |:heavy_check_mark: | [Funciones](#Funciones)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  024 |:heavy_check_mark: | [Funciones Matemaricas](#Funciones-Matemaricas)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 024 |:heavy_check_mark: |  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  023 |:heavy_check_mark: | [Alias](#alias)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | - |:heavy_check_mark: | - |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  024 |:heavy_check_mark: | [Funciones](#Funciones)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | - |:heavy_check_mark: |  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  025 |:heavy_check_mark: | [Funciones matemeticas](#Funciones-matematicas)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | - |:heavy_check_mark: |  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  026 |:heavy_check_mark: | [ORDERR BY](#ORDER-BY)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | - |:heavy_check_mark: |  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ## Azure
 
@@ -181,6 +180,7 @@ La lista de campos luego del "select" selecciona los datos correspondientes a lo
 |Number   | File       |    Link     |    Code     | version     | Estate     | Behind        |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |007      |  [Recuperar algunos registros WHERE](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/007%20Recuperar%20algunos%20registros%20EJERCICIO)             |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|007      |  [Recuperar algunos registros EJERICIO](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/007%20Recuperar%20algunos%20registros%20EJERCICIO)             |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
 ## Operadores relacionales
@@ -244,6 +244,7 @@ No son los únicos, existen otros que veremos mas adelante.
 |Number   | File       |    Link     |    Code     | version     | Estate     | Behind        |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |008      |   [Operadores relacionales](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/008%20Operadores%20relacionales)             |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|009      |   [Operadores relacionales Ejercicio](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/009%20Operadores%20Relacional%20-%20Ejercicio) |
 
 ## Operadores Relacional Ejercicio
 
@@ -524,14 +525,18 @@ Podemos ingresar una hora sin fecha, en tal caso, coloca la fecha "1900-01-01". 
 |024      |   [Funciones](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/024%20Funciones)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
-## Funciones Matemaricas
+## Funciones Matematicas
 
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |025      |   [Funciones](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/025%20Funciones%20matemaricas)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
+## ORDERR BY
 
+|Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
+|:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|026      |   [ORDERR BY](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/025%20Funciones%20matemaricas)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
 
