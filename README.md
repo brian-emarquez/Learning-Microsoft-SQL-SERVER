@@ -76,7 +76,7 @@
 |  031 |:heavy_check_mark: | [Busqueda de patrones LIKE](#Busqueda-de-patrones-LIKE)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) | - |:heavy_check_mark: |  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  032 |:heavy_check_mark: | [Busqueda de patrones COUNT](#Busqueda-de-patrones-COUNT)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) | - |:heavy_check_mark: |  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  033 |:heavy_check_mark: | [Busqueda de patrones COUNT BIG](#Busqueda-de-patrones-COUNT-BIG)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) | - |:heavy_check_mark: |  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  034 |:heavy_check_mark: | [Funcionesagrupamiento](#Funciones-agrupamiento)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) | - |:heavy_check_mark: |  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  034 |:heavy_check_mark: | [Funciones agrupamiento](#Funciones-agrupamiento)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) | - |:heavy_check_mark: |  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  035 |:heavy_check_mark: | [Agrupar registros](#Agrupar-registros)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) | - |:heavy_check_mark: |  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ## Azure
@@ -585,13 +585,59 @@ select * from libros
 
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|022      |   [Operadores logicos](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/027%20Operadores%20Logicos)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|027      |   [Operadores logicos](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/027%20Operadores%20Logicos)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
+## Operadores relacionales NULL
+
+|Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
+|:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|028      |   [Operadores relacionales NULL](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/027%20Operadores%20Logicos)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+
+## Operadores relacionales BETWEEN
+
+|Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
+|:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|029      |   [Operadores relacionales BETWEEN](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/027%20Operadores%20Logicos)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+
+## Operadores relacionales IN
+
+|Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
+|:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|030      |   [Operadores relacionales IN](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/027%20Operadores%20Logicos)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
+## Busqueda de patrones LIKE
+
+|Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
+|:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|031      |   [Busqueda de patrones LIKE](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/027%20Operadores%20Logicos)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+
+## Busqueda de patrones COUNT
+
+|Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
+|:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|032      |   [Busqueda de patrones COUNT](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/027%20Operadores%20Logicos)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
+## Busqueda de patrones COUNT BIG
+
+|Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
+|:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|033      |   [Busqueda de patrones COUNT BIG](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/027%20Operadores%20Logicos)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+
+## Busqueda de patrones COUNT BIG
+
+|Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
+|:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|034      |   [Funciones agrupamiento](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/027%20Operadores%20Logicos)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+
+
+## Agrupar registros
+
+|Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
+|:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|035      |   [Agrupar registros](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/027%20Operadores%20Logicos)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
 
