@@ -615,6 +615,11 @@ select * from libros
 
 ## Busqueda de patrones COUNT
 
+```sql
+select count(*)
+  from libros;
+```
+
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |032      |   [Busqueda de patrones COUNT](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/032%20Contar%20registros%20COUNT)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
