@@ -10,6 +10,9 @@
 
 - Atributo principal o clave primaria
 
+- Atrivuto principal o clave primaria
+
+- Atributo foraneo o clave secundaria
 
 
 
