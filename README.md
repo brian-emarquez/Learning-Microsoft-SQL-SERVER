@@ -677,6 +677,28 @@ Este sitio para el aprendizaje de la programación de computadoras es un proyect
   </tr>
 </table>
 
+## Books
+
+<table>
+  <tr>
+      <td>Server</td>
+      <td>Name</td>
+      <td>Authors</td>
+      <td>Editorial</td>
+      <td>ISBN</td>
+      <td>Link</td>
+  </tr>
+
+   <tr>
+      <td>OneDrive</td>
+      <td>Database System Concepts</td>
+      <td>Abraham Silberschatz, Henry F. Korth S. Sudarshan</td>
+      <td>Mc Graw Hill</td>
+      <td>ISBN 978-0-07-802215-9</td>
+      <td><a href="https://ucsmedu-my.sharepoint.com/:b:/g/personal/47092136_ucsm_edu_pe/ETY9gbFXu7dHo_W7F8-32LEBU8CRKAwFK0nv4yygCK1ZQg?e=Zgi7yR">Database System Concepts</a></td>
+  </tr>
+</table>
+
 ## Spotify SQL SERVER
 
 🎵 Music SQL SERVER [List on Spotify 🎤](https://open.spotify.com/playlist/1McRBCzJzhsa7FQ12qfbsR?si=HgVrOallSAyGWk6G6la7dQ)
