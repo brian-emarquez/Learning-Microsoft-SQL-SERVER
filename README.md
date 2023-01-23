@@ -85,6 +85,12 @@
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  A1   | <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px">| [Azure Data Studio](#Azure-Data-Studio)   |   <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">      | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
+## Instalacion
+
+⚙️ [Install SQL Server ](https://www.microsoft.com/en-us/evalcenter/evaluate-sql-server-2019) <br>
+⚙️ [Install Azure Data Studio ](https://learn.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver16) <br>
+
+
 ## Crear Base de Datos
 
 ```tsql
