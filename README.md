@@ -1,5 +1,5 @@
 
-<h2 align="center">Learning Micosoft SQL SERVER</h2>
+<h2 align="center">Learning Micosoft SQL SERVER </h2>
 
 <p align="center">
   
@@ -42,7 +42,7 @@
   </tr>
 </table>
 
-## Tabla de Contenidos
+## Table of Contents
 
 | Numeration   | Check  |Topic          | Quantization     |    Edit Gitpot    |    Downloads    |  link   |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
@@ -85,7 +85,7 @@
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  A1   | <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px">| [Azure Data Studio](#Azure-Data-Studio)   |   <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">      | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
-## Instalacion
+## Installation
 
 📦 [Install SQL Server ](https://www.microsoft.com/es-es/sql-server/sql-server-downloads) <br>
 📦 [Install SQL Server Management Studio (SSMS) ](https://learn.microsoft.com/es-es/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16) <br>
@@ -93,7 +93,7 @@
 📦 [Install MySQL-Front](https://mysql-front.es.download.it/) <br>
 📦 [Install SQL Manager](https://www.sqlmanager.net/products/mssql/manager) <br>
 
-## Crear Base de Datos
+## Create Database
 
 ```tsql
 
