@@ -722,6 +722,10 @@ Este sitio para el aprendizaje de la programación de computadoras es un proyect
 
 [SQLiteonline](https://sqliteonline.com/)
 
+## Version
+
+[Microsoft SQL Server Versions List](https://sqlserverbuilds.blogspot.com/)
+
 ## DB Engine Ranking
 
 [DB ENGINES](https://db-engines.com/en/)
