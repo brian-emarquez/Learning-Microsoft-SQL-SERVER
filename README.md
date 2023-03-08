@@ -3,27 +3,29 @@
 
 <p align="center">
   
-   </a>
+  <a>
     <img src="https://img.shields.io/github/languages/top/BrianMarquez3/Learning-Microsoft-SQL-SERVER?color=darkred">
   </a>
+
   <a href="https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/stargazers">
     <img src="https://img.shields.io/github/stars/BrianMarquez3/Learning-Microsoft-SQL-SERVER.svg?style=flat" alt="Stars">
   </a>
+
   <a href="https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/Learning-Microsoft-SQL-SERVER.svg?style=flat" alt="Forks">
   </a>
     <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Learning-Microsoft-SQL-SERVER?color=red&label=Version&logo=TSQL">
   </a>
   
-  </a>
+  <a>
     <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/Learning-Microsoft-SQL-SERVER">
   </a>
   
-  </a>
+  <a>
     <img src="https://img.shields.io/github/downloads/BrianMarquez3/Learning-Microsoft-SQL-SERVER/total?color=blue">
   </a>
   
-   </a>
+   <a>
    <a href="https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/network">
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
   </a><br>
@@ -33,7 +35,7 @@
   
 </p>
   
-<!-- ![python](./images/sql.jpg) -->
+
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
@@ -92,6 +94,23 @@
 📦 [Install Azure Data Studio ](https://azure.microsoft.com/es-es/products/data-studio) <br>
 📦 [Install MySQL-Front](https://mysql-front.es.download.it/) <br>
 📦 [Install SQL Manager](https://www.sqlmanager.net/products/mssql/manager) <br>
+
+## Remove sql server
+
+_Ejecutar_
+
+```
+services.msc
+```
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/logo2.jpg" />
+    </td>
+  </tr>
+</table>
+
+
 
 ## Create Database
 
