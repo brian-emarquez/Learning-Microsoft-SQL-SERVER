@@ -1,4 +1,4 @@
-## Eliminar SQL SERVER
+## Eliminar SQL SERVER 
 
 Tutorial - [Cómo desinstalar correctamente SQL Server](https://www.youtube.com/watch?v=vFwkkK6TU9o)  
 
@@ -35,6 +35,15 @@ services.msc
 **Eliminar SQL**
 
 
+* Abrir Panel de control
+
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images/agente_sql.png" />
+    </td>
+  </tr>
 
 
 

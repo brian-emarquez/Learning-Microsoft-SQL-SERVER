@@ -97,19 +97,7 @@
 
 ## Remove sql server
 
-_Ejecutar_
-
-```
-services.msc
-```
-<table align="center">
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/logo2.jpg" />
-    </td>
-  </tr>
-</table>
-
+Delete sql server correctly - [Desactivar y Borrar SQL SERVER](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/ElimarSQLServer)
 
 
 ## Create Database
