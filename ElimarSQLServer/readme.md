@@ -101,6 +101,26 @@ Se desingstalo correctamente ✔️
     </td>
   </tr>
 
+* Salir
+
+  <table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images/delete_sqlserver_engine_05.png" />
+    </td>
+  </tr>
+
+* Eliminar Lo Restante
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images/delete_sqlserver_engine_06.png" />
+    </td>
+  </tr>
+
+
+
 
 
 
