@@ -37,13 +37,23 @@ services.msc
 
 * Abrir Panel de control
 
+_Desinstalar SQL Management Studio_
 
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="../images/agente_sql.png" />
+      <img align="center" style="padding=0;" src="../images/delete_managestudio.png" />
     </td>
   </tr>
+
+  <table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images/delete_managestudio_01.png" />
+    </td>
+  </tr>
+
+
 
 
 
