@@ -53,16 +53,10 @@ _Desinstalar SQL Management Studio_
     </td>
   </tr>
 
-  - Se desingstalo correctamente ✔️
-
-  _Elimnar el Microsoft Sql Server_
-
-  <td align="center" style="padding=0;width=50%;">
+  <table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="../images/delete_sqlserver_engine.png" />
     </td>
   </tr>
-
-
-
-
 
