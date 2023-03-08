@@ -35,9 +35,9 @@ services.msc
 **Eliminar SQL**
 
 
-* Abrir Panel de control
+Abrir Panel de control
 
-_Desinstalar SQL Management Studio_
+- Desinstalar SQL Management Studio
 
 <table align="center">
   <tr>
@@ -53,10 +53,57 @@ _Desinstalar SQL Management Studio_
     </td>
   </tr>
 
-  <table align="center">
+Se desingstalo correctamente ✔️
+
+- Eliminar el Microsoft Sql Server
+>> pasos a seguir
+
+<table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="../images/delete_sqlserver_engine.png" />
     </td>
   </tr>
+
+* Elegir  Microsoft Sql Server
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images/delete_sqlserver_engine_01.png" />
+    </td>
+  </tr>
+
+* Elegir Quitar
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images/delete_sqlserver_engine_02.png" />
+    </td>
+  </tr>
+
+* Seleccionar Todo
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images/delete_sqlserver_engine_03.png" />
+    </td>
+  </tr>
+
+* Validacion
+
+  <table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images/delete_sqlserver_engine_04.png" />
+    </td>
+  </tr>
+
+
+
+
+
+
 
