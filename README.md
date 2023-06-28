@@ -94,6 +94,7 @@
 📦 [Install Azure Data Studio ](https://azure.microsoft.com/es-es/products/data-studio) <br>
 📦 [Install MySQL-Front](https://mysql-front.es.download.it/) <br>
 📦 [Install SQL Manager](https://www.sqlmanager.net/products/mssql/manager) <br>
+📦 [SQL Server Migration Assistant](https://learn.microsoft.com/en-us/sql/ssma/sql-server-migration-assistant?view=sql-server-ver16) <br>
 
 ## Remove sql server
 
