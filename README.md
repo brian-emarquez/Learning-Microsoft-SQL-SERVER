@@ -95,8 +95,9 @@
 📦 [Install MySQL-Front](https://mysql-front.es.download.it/) <br>
 📦 [Install SQL Manager](https://www.sqlmanager.net/products/mssql/manager) <br>
 📦 [SQL Server Migration Assistant](https://learn.microsoft.com/en-us/sql/ssma/sql-server-migration-assistant?view=sql-server-ver16) <br>
+📦 [Management Studio Dark theme](https://www.sqlshades.com/) <br>
 
-## Remove sql server
+## Remove SQL server
 
 Delete sql server correctly - [Desactivar y Borrar SQL SERVER](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/ElimarSQLServer)
 
