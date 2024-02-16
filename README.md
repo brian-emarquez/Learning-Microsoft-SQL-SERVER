@@ -105,7 +105,6 @@ Delete sql server correctly - [Desactivar y Borrar SQL SERVER](https://github.co
 ## Create Database
 
 ```tsql
-
 if object_id('usuario') is not null
 	drop table usuario;
 
@@ -147,7 +146,7 @@ exec sp_tables @table_owner='dbo'
 ### La sintaxis básica y general es la siguiente:
 
 ```tsql
- select * from NOMBRETABLA;
+select * from NOMBRETABLA;
 El asterisco (*) indica que se seleccionan todos los campos de la tabla.
 ```
 
