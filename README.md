@@ -204,7 +204,7 @@ La lista de campos luego del "select" selecciona los datos correspondientes a lo
 |Number   | File       |    Link     |    Code     | version     | Estate     | Behind        |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |007      |  [Recuperar algunos registros WHERE](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/007%20Recuperar%20algunos%20registros%20EJERCICIO)             |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
-|007      |  [Recuperar algunos registros EJERICIO](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/007%20Recuperar%20algunos%20registros%20EJERCICIO)             |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|007      |  [Recuperar algunos registros EJERCICIO](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/007%20Recuperar%20algunos%20registros%20EJERCICIO)             |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
 ## Operadores relacionales
