@@ -7,11 +7,11 @@
     <img src="https://img.shields.io/github/languages/top/BrianMarquez3/Learning-Microsoft-SQL-SERVER?color=darkred">
   </a>
 
-  <a href="https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/stargazers">
+  <a href="https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/stargazers">
     <img src="https://img.shields.io/github/stars/BrianMarquez3/Learning-Microsoft-SQL-SERVER.svg?style=flat" alt="Stars">
   </a>
 
-  <a href="https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/network">
+  <a href="https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/Learning-Microsoft-SQL-SERVER.svg?style=flat" alt="Forks">
   </a>
     <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Learning-Microsoft-SQL-SERVER?color=red&label=Version&logo=TSQL">
@@ -26,7 +26,7 @@
   </a>
   
    <a>
-   <a href="https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/network">
+   <a href="https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/network">
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
   </a><br>
  
@@ -48,44 +48,44 @@
 
 | Numeration   | Check  |Topic          | Quantization     |    Edit Gitpot    |    Downloads    |  link   |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  001   |:heavy_check_mark: | [Crear Base de Datos](#Crear-Base-de-Datos)   |   <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 |  <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  002   |:heavy_check_mark: | [Insertar Datos](#Insertar-Datos)  |   <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">       | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  003  |:heavy_check_mark: | [Tipos Datos Básicos](#Tipos-Datos-Básicos)  |   <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">    | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  004  |:heavy_check_mark: | [SELECT](#SELECT)  |   <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">      | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  005  |:heavy_check_mark: | [Recuperar Campos select](#Recuperar-Campos-select)  |   <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|006-007|:heavy_check_mark: | [Recuperar algunos registros WHERE](#Recuperar-algunos-registros-WHERE)  |   <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">      | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|008-009|:heavy_check_mark: | [Operadores relacionales](#Operadores-relacionales)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪| <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  010  |:heavy_check_mark: | [Borrar registros](#Borrar-egistros)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  012  |:heavy_check_mark: | [Actualizar Registros](#Actualizar-Registros)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  013  |:heavy_check_mark: | [Comentarios](#Comentarios)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">    | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  014  |:heavy_check_mark: | [Null](#Null)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  015  |:heavy_check_mark: | [Clave Primaria](#Clave-Primaria)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  016  |:heavy_check_mark: | [Campo con atributo identy](#Campo-con-atributo-identy)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  017  |:heavy_check_mark: | [Caracteristicas del atributo identy](#Caracteristicas-del-atributo-identy)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">    | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  018  |:heavy_check_mark: | [Truncate table](#Truncate-table)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  019  |:heavy_check_mark: | [Otros tipos de datos](#Otros-tipos-de-datos)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  020  |:heavy_check_mark: | [Ingresar algunos campos](#Ingresar-algunos-campos)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  021  |:heavy_check_mark: | [Valores por Defecto](#Valores-por-Defecto)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  022  |:heavy_check_mark: | [Columnas calculadas](#Columnas-calculadas)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  023 |:heavy_check_mark: | [Alias](#alias)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) | - |:heavy_check_mark: | - |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  024 |:heavy_check_mark: | [Funciones](#Funciones)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) | - |:heavy_check_mark: |  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  025 |:heavy_check_mark: | [Funciones matemeticas](#Funciones-matematicas)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) | - |:heavy_check_mark: |  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  026 |:heavy_check_mark: | [ORDERR BY](#ORDER-BY)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) | - |:heavy_check_mark: |  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  027 |:heavy_check_mark: | [Operadores logicos](#Operadores-logicos)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) | - |:heavy_check_mark: |  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  028 |:heavy_check_mark: | [Operadores relacionales NULL](#Operadores-relacionales-NULL)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) | - |:heavy_check_mark: |  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  029 |:heavy_check_mark: | [Operadores relacionales BETWEEN](#Operadores-relacionales-BETWEEN)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) | - |:heavy_check_mark: |  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  030 |:heavy_check_mark: | [Operadores relacionales IN](#Operadores-relacionales-IN)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) | - |:heavy_check_mark: |  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  031 |:heavy_check_mark: | [Busqueda de patrones LIKE](#Busqueda-de-patrones-LIKE)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) | - |:heavy_check_mark: |  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  032 |:heavy_check_mark: | [Busqueda de patrones COUNT](#Busqueda-de-patrones-COUNT)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) | - |:heavy_check_mark: |  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  033 |:heavy_check_mark: | [Busqueda de patrones COUNT BIG](#Busqueda-de-patrones-COUNT-BIG)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) | - |:heavy_check_mark: |  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  034 |:heavy_check_mark: | [Funciones agrupamiento](#Funciones-agrupamiento)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) | - |:heavy_check_mark: |  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  035 |:heavy_check_mark: | [Agrupar registros](#Agrupar-registros)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) | - |:heavy_check_mark: |  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  001   |:heavy_check_mark: | [Crear Base de Datos](#Crear-Base-de-Datos)   |   <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 |  <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) | 
+|  002   |:heavy_check_mark: | [Insertar Datos](#Insertar-Datos)  |   <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">       | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) | 
+|  003  |:heavy_check_mark: | [Tipos Datos Básicos](#Tipos-Datos-Básicos)  |   <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">    | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) | 
+|  004  |:heavy_check_mark: | [SELECT](#SELECT)  |   <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">      | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+|  005  |:heavy_check_mark: | [Recuperar Campos select](#Recuperar-Campos-select)  |   <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+|006-007|:heavy_check_mark: | [Recuperar algunos registros WHERE](#Recuperar-algunos-registros-WHERE)  |   <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">      | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+|008-009|:heavy_check_mark: | [Operadores relacionales](#Operadores-relacionales)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪| <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+|  010  |:heavy_check_mark: | [Borrar registros](#Borrar-egistros)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+|  012  |:heavy_check_mark: | [Actualizar Registros](#Actualizar-Registros)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+|  013  |:heavy_check_mark: | [Comentarios](#Comentarios)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">    | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+|  014  |:heavy_check_mark: | [Null](#Null)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+|  015  |:heavy_check_mark: | [Clave Primaria](#Clave-Primaria)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+|  016  |:heavy_check_mark: | [Campo con atributo identy](#Campo-con-atributo-identy)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+|  017  |:heavy_check_mark: | [Caracteristicas del atributo identy](#Caracteristicas-del-atributo-identy)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">    | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+|  018  |:heavy_check_mark: | [Truncate table](#Truncate-table)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+|  019  |:heavy_check_mark: | [Otros tipos de datos](#Otros-tipos-de-datos)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+|  020  |:heavy_check_mark: | [Ingresar algunos campos](#Ingresar-algunos-campos)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+|  021  |:heavy_check_mark: | [Valores por Defecto](#Valores-por-Defecto)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+|  022  |:heavy_check_mark: | [Columnas calculadas](#Columnas-calculadas)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+|  023 |:heavy_check_mark: | [Alias](#alias)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) | - |:heavy_check_mark: | - |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+|  024 |:heavy_check_mark: | [Funciones](#Funciones)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) | - |:heavy_check_mark: |  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+|  025 |:heavy_check_mark: | [Funciones matemeticas](#Funciones-matematicas)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) | - |:heavy_check_mark: |  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+|  026 |:heavy_check_mark: | [ORDERR BY](#ORDER-BY)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) | - |:heavy_check_mark: |  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+|  027 |:heavy_check_mark: | [Operadores logicos](#Operadores-logicos)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) | - |:heavy_check_mark: |  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+|  028 |:heavy_check_mark: | [Operadores relacionales NULL](#Operadores-relacionales-NULL)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) | - |:heavy_check_mark: |  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+|  029 |:heavy_check_mark: | [Operadores relacionales BETWEEN](#Operadores-relacionales-BETWEEN)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) | - |:heavy_check_mark: |  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+|  030 |:heavy_check_mark: | [Operadores relacionales IN](#Operadores-relacionales-IN)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) | - |:heavy_check_mark: |  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+|  031 |:heavy_check_mark: | [Busqueda de patrones LIKE](#Busqueda-de-patrones-LIKE)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) | - |:heavy_check_mark: |  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+|  032 |:heavy_check_mark: | [Busqueda de patrones COUNT](#Busqueda-de-patrones-COUNT)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) | - |:heavy_check_mark: |  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+|  033 |:heavy_check_mark: | [Busqueda de patrones COUNT BIG](#Busqueda-de-patrones-COUNT-BIG)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) | - |:heavy_check_mark: |  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+|  034 |:heavy_check_mark: | [Funciones agrupamiento](#Funciones-agrupamiento)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) | - |:heavy_check_mark: |  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+|  035 |:heavy_check_mark: | [Agrupar registros](#Agrupar-registros)  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) | - |:heavy_check_mark: |  |  <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">     | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) |
 
 ## Azure
 
 | Numeration   | Check  |Topic          | Quantization     |    Edit Gitpot    |    Downloads    |  link   |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  A1   | <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px">| [Azure Data Studio](#Azure-Data-Studio)   |   <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">      | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  A1   | <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px">| [Azure Data Studio](#Azure-Data-Studio)   |   <img src="https://media.giphy.com/media/MCvEvVVqxjL9fH9trX/giphy.gif" width="25px">      | 🧪 | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px"> | [ ⬅️ Atras](https://github.com/brian-emarquez) |
 
 ## Installation
 
@@ -94,12 +94,12 @@
 📦 [Install Azure Data Studio ](https://azure.microsoft.com/es-es/products/data-studio) <br>
 📦 [Install MySQL-Front](https://mysql-front.es.download.it/) <br>
 📦 [Install SQL Manager](https://www.sqlmanager.net/products/mssql/manager) <br>
-📦 [SQL Server Migration Assistant](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/SSMA) <br>
+📦 [SQL Server Migration Assistant](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/SSMA) <br>
 📦 [Management Studio Dark theme](https://www.sqlshades.com/) <br>
 
 ## Remove SQL server
 
-Delete sql server correctly - [Desactivar y Borrar SQL SERVER](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/ElimarSQLServer)
+Delete sql server correctly - [Desactivar y Borrar SQL SERVER](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/ElimarSQLServer)
 
 
 ## Create Database
@@ -123,7 +123,7 @@ exec sp_tables @table_owner='dbo'
 
 |Number   | File       |    Link     |    Code     | version     | Estate     | Behind        |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|001      | [Crear Base de Datos](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/001%20crear%20Base%20de%20Datos)          |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|001      | [Crear Base de Datos](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/001%20crear%20Base%20de%20Datos)          |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
 
@@ -133,13 +133,13 @@ exec sp_tables @table_owner='dbo'
 
 |Number   | File       |    Link     |    Code     | version     | Estate     | Behind        |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|002      | [Insertar Datos](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/002%20InsertarDatos)            |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|002      | [Insertar Datos](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/002%20InsertarDatos)            |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ## Tipos Datos Básicos
 
 |Number   | File       |    Link     |    Code     | version     | Estate     | Behind        |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|003      | [Tipos Datos Básicos](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/003%20TiposDatosB%C3%A1sicos)           |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|003      | [Tipos Datos Básicos](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/003%20TiposDatosB%C3%A1sicos)           |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ## SELECT
 
@@ -164,7 +164,7 @@ Cuando tenemos un lote de comandos SQL y necesitamos particionarlo en distintos 
 
 |Number   | File       |    Link     |    Code     | version     | Estate     | Behind        |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|004      | [SELECT](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/004%20Recuperar%20algunos%20campos%20(select))           |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|004      | [SELECT](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/004%20Recuperar%20algunos%20campos%20(select))           |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ## Recuperar Campos select
 
@@ -188,7 +188,7 @@ La lista de campos luego del "select" selecciona los datos correspondientes a lo
 
 |Number   | File       |    Link     |    Code     | version     | Estate     | Behind        |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|005      |  [Recuperar Campos select](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/005%20recuperarCampos(SELECT))            |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|005      |  [Recuperar Campos select](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/005%20recuperarCampos(SELECT))            |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ## Recuperar algunos registros WHERE
 
@@ -196,15 +196,15 @@ La lista de campos luego del "select" selecciona los datos correspondientes a lo
 
 |Number   | File       |    Link     |    Code     | version     | Estate     | Behind        |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|006      |  [Recuperar algunos registros WHERE](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/006%20Recuperar%20algunos%20registros%20WHERE)             |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|006      |  [Recuperar algunos registros WHERE](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/006%20Recuperar%20algunos%20registros%20WHERE)             |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
 ## Recuperar algunos registros WHERE EJERCICIO
 
 |Number   | File       |    Link     |    Code     | version     | Estate     | Behind        |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|007      |  [Recuperar algunos registros WHERE](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/007%20Recuperar%20algunos%20registros%20EJERCICIO)             |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
-|007      |  [Recuperar algunos registros EJERCICIO](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/007%20Recuperar%20algunos%20registros%20EJERCICIO)             |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|007      |  [Recuperar algunos registros WHERE](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/007%20Recuperar%20algunos%20registros%20EJERCICIO)             |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|007      |  [Recuperar algunos registros EJERCICIO](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/007%20Recuperar%20algunos%20registros%20EJERCICIO)             |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
 ## Operadores relacionales
@@ -267,45 +267,45 @@ No son los únicos, existen otros que veremos mas adelante.
 
 |Number   | File       |    Link     |    Code     | version     | Estate     | Behind        |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|008      |   [Operadores relacionales](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/008%20Operadores%20relacionales)             |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
-|009      |   [Operadores relacionales Ejercicio](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/009%20Operadores%20Relacional%20-%20Ejercicio) |
+|008      |   [Operadores relacionales](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/008%20Operadores%20relacionales)             |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|009      |   [Operadores relacionales Ejercicio](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/009%20Operadores%20Relacional%20-%20Ejercicio) |
 
 ## Operadores Relacional Ejercicio
 
 |Number   | File       |    Link     |    Code        | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|009      |    [Operadores Relacional Ejercicio](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/009%20Operadores%20Relacional%20-%20Ejercicio)             |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|009      |    [Operadores Relacional Ejercicio](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/009%20Operadores%20Relacional%20-%20Ejercicio)             |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ## Borrar registro
 
 |Number   | File       |    Link     |    Code        | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|010      |   [Borrar registro - Delete](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/010%20Borrar%20registros%20(delete))             |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|010      |   [Borrar registro - Delete](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/010%20Borrar%20registros%20(delete))             |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ## Actualizar Registros
 
 |Number   | File       |    Link     |    Code        | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|011      |    [Actualizar Registros - Update](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/011%20Actualizar%20Registros%20(update))                |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
-|012      |    [Actualizar Registros - Update Ejercicio](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/012%20Actualizar%20Registros%20(update)%20Ejercicio)                |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|011      |    [Actualizar Registros - Update](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/011%20Actualizar%20Registros%20(update))                |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|012      |    [Actualizar Registros - Update Ejercicio](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/012%20Actualizar%20Registros%20(update)%20Ejercicio)                |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ## Comentarios
 
 |Number   | File       |    Link     |    Code        | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|013      |    [Actualizar Registros - ](hhttps://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/013%20Comentarios)                 |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|013      |    [Actualizar Registros - ](hhttps://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/013%20Comentarios)                 |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ## Null
 
 |Number   | File       |    Link     |    Code        | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|014      |   [Null](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/014%20Null)                 |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|014      |   [Null](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/014%20Null)                 |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ## Clave Primaria
 
 |Number   | File       |    Link     |    Code        | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|015      |   [Clave Primaria](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/015%20Clave%20Primaria)               |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|015      |   [Clave Primaria](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/015%20Clave%20Primaria)               |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ## Campo con atributo identy
 
@@ -319,7 +319,7 @@ No son los únicos, existen otros que veremos mas adelante.
 
 |Number   | File       |    Link     |    Code        | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|016      |  [Campo con atributo identy](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/016%20Campo%20con%20atributo%20identy)              |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|016      |  [Campo con atributo identy](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/016%20Campo%20con%20atributo%20identy)              |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ##  Caracteristicas del atributo identy
 
@@ -340,14 +340,14 @@ set identity_insert libros off;
 
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|017      |   [Caracteristicas del atributo identy](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/016%20Campo%20con%20atributo%20identy)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|017      |   [Caracteristicas del atributo identy](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/016%20Campo%20con%20atributo%20identy)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ##  Truncate table
 
 
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|018      |   [Truncate table](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/018%20Truncate%20table)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|018      |   [Truncate table](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/018%20Truncate%20table)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ## Otros tipos de datos
 
@@ -512,48 +512,48 @@ Podemos ingresar una hora sin fecha, en tal caso, coloca la fecha "1900-01-01". 
 
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|019      |   [Otros tipos de datos](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/019%20Otros%20tipos%20de%20datos)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|019      |   [Otros tipos de datos](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/019%20Otros%20tipos%20de%20datos)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
 ## Ingresar algunos campos
 
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|020      |   [Ingresar algunos campos](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/020%20Ingredar%20Alguno%20scampos(insertInto))     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|020      |   [Ingresar algunos campos](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/020%20Ingredar%20Alguno%20scampos(insertInto))     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
 ## Valores por Defecto
 
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|021      |   [Valores por Defecto](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/021%20Valores%20por%20Defecto)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|021      |   [Valores por Defecto](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/021%20Valores%20por%20Defecto)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
 ## Columnas calculadas
 
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|022      |   [Columnas calculadas](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/022%20Columnas%20Calculadas)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|022      |   [Columnas calculadas](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/022%20Columnas%20Calculadas)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ## Alias
 
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|023      |   [Alias](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/023%20Alias)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|023      |   [Alias](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/023%20Alias)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
 ## Funciones
 
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|024      |   [Funciones](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/024%20Funciones)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|024      |   [Funciones](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/024%20Funciones)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
 ## Funciones Matematicas
 
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|025      |   [Funciones](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/025%20Funciones%20matemaricas)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|025      |   [Funciones](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/025%20Funciones%20matemaricas)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
 ## ORDERR BY
@@ -594,40 +594,40 @@ select * from libros
 
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|026      |   [ORDERR BY](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/026%20ORDER%20BY)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|026      |   [ORDERR BY](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/026%20ORDER%20BY)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
 ## Operadores logicos
 
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|027      |   [Operadores logicos](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/027%20Operadores%20Logicos)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|027      |   [Operadores logicos](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/027%20Operadores%20Logicos)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
 ## Operadores relacionales NULL
 
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|028      |   [Operadores relacionales NULL](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/028%20Operadores%20relacionales%20NULL)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|028      |   [Operadores relacionales NULL](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/028%20Operadores%20relacionales%20NULL)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ## Operadores relacionales BETWEEN
 
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|029      |   [Operadores relacionales BETWEEN](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/029%20Operadores%20Relacion%20BETWEEN)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|029      |   [Operadores relacionales BETWEEN](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/029%20Operadores%20Relacion%20BETWEEN)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ## Operadores relacionales IN
 
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|030      |   [Operadores relacionales IN](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/030%20Operadores%20Relaciones%20IN)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|030      |   [Operadores relacionales IN](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/030%20Operadores%20Relaciones%20IN)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
 ## Busqueda de patrones LIKE
 
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|031      |   [Busqueda de patrones LIKE](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/031%20Busqueda%20de%20patrones%20LIKE)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|031      |   [Busqueda de patrones LIKE](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/031%20Busqueda%20de%20patrones%20LIKE)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ## Busqueda de patrones COUNT
 
@@ -638,27 +638,27 @@ select count(*)
 
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|032      |   [Busqueda de patrones COUNT](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/032%20Contar%20registros%20COUNT)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|032      |   [Busqueda de patrones COUNT](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/032%20Contar%20registros%20COUNT)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
 ## Busqueda de patrones COUNT BIG
 
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|033      |   [Busqueda de patrones COUNT BIG](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/033%20Contar%20Regstros%20COUNT%20BIG)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|033      |   [Busqueda de patrones COUNT BIG](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/033%20Contar%20Regstros%20COUNT%20BIG)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ## Busqueda de patrones COUNT BIG
 
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|034      |   [Funciones agrupamiento](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/034%20Funciones%20agrupamiento)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|034      |   [Funciones agrupamiento](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/034%20Funciones%20agrupamiento)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
 ## Agrupar registros
 
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|035      |   [Agrupar registros](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/035%20Agrupar%20Registros)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|035      |   [Agrupar registros](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/035%20Agrupar%20Registros)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
 
@@ -676,7 +676,7 @@ select count(*)
 
 |Number   | File          |    Link     |    Code     | version     | Estate     | Behind       |
 |:-------:|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|A        |    [Azure Data Studio](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER/tree/main/Azure%20Data%20Studio)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|A        |    [Azure Data Studio](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/Azure%20Data%20Studio)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ---
 ## Material Creador
