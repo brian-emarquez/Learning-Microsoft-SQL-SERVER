@@ -12,4 +12,5 @@
 |  INT        | Almacena valores entre -2.147.483.648 y 2.147.483.647 |  
 |  BIGINT     | Almancena valores entre -9,223,372,036,854,775,808 y 9,223,372,036,854,775,807  | 
 |  DECIMAL    | Almacena valores entre 10^38 - 1de -10^38 + 1 | 
-|  NUMERIC    | Almacena valores entre   10^38 - 1de -10^38 + 1 , igual a decimal | 
+|  NUMERIC    | Almacena valores entre   10^38 - 1de -10^38 + 1 , similar a decimal | 
+|MONEY  |  Almancena entre  -922.337.203.685.477,5808 a 922.337.203.685.477,5807 |
