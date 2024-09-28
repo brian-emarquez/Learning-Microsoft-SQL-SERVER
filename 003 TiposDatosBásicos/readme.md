@@ -14,3 +14,4 @@
 |  DECIMAL    | Almacena valores entre 10^38 - 1de -10^38 + 1 | 
 |  NUMERIC    | Almacena valores entre   10^38 - 1de -10^38 + 1 , similar a decimal | 
 |MONEY  |  Almancena entre  -922.337.203.685.477,5808 a 922.337.203.685.477,5807 |
+|FLOAT  | Almacena valores entre  1,79E+308 a -2,23E-308, 0 y de 2,23E-308 a 1,79E+308  |
