@@ -1,5 +1,7 @@
 ## Tipo de datos 
 
+[https://learn.microsoft.com/es-es/sql/t-sql/data-types/data-types-transact-sql?view=sql-server-ver16]
+
 
 |TIPO   | DESCRIPCION  |   
 |------------ |--------|
