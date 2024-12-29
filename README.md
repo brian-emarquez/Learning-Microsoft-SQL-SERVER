@@ -556,7 +556,7 @@ Podemos ingresar una hora sin fecha, en tal caso, coloca la fecha "1900-01-01". 
 |025      |   [Funciones](https://github.com/brian-emarquez/Learning-Microsoft-SQL-SERVER/tree/main/025%20Funciones%20matemaricas)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
-## ORDERR BY
+## ORDER BY
 
 ```sql
 -- Recuperamos los registros ordenados por el título:
